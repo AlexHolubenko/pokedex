@@ -1,0 +1,1 @@
+ If you want run app please follow this link [POKEDEX](http://alexholubenko.github.io/pokedex);
